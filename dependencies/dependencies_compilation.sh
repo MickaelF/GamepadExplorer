@@ -71,4 +71,4 @@ if [ ! -d $PWD/SDL2 ] ; then
 fi
 
 GenerateProject SDL2
-GitUpdate nlohmann_json https://github.com/nlohmann/json true
+GitUpdate json https://github.com/nlohmann/json true
